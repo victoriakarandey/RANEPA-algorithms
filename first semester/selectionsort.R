@@ -1,5 +1,4 @@
 
-
 selection_sort <- function(massiv) {
   n <- length(massiv)
   for (i in 1:n){
